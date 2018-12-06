@@ -294,7 +294,7 @@ echo $gender;
 
 <p> Information about your server <a href="info.php">here</a></p>
         <footer>
-          <div class="logo"><a href="https://www.openshift.com/"></a></div>
+          <div class="logo"><a href="https://www.news.com/"></a></div>
         </footer>
 </section>
 
